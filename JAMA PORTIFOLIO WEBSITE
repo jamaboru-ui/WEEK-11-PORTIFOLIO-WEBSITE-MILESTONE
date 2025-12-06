@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jama Boru | Data Analyst</title>
+<style>
+body { font-family: Arial, sans-serif; margin:0; padding:0; background:#f0f0f0; color:#333; }
+header { background:#2c3e50; color:white; text-align:center; padding:2rem; }
+header img { border-radius:50%; width:150px; }
+main { max-width:800px; margin:auto; padding:2rem; background:white; }
+section { margin-bottom:2rem; }
+h1,h2 { margin:0.5rem 0; }
+h2 { color:#2c3e50; }
+ul { list-style:none; padding:0; }
+li { margin-bottom:1rem; }
+a { color:#2980b9; text-decoration:none; }
+footer { text-align:center; padding:1rem; background:#ddd; }
+</style>
+</head>
+<body>
+
+<header>
+<img src="https://via.placeholder.com/150" alt="Jama Boru">
+<h1>Jama Boru</h1>
+<p>Data Analyst | Transforming Data into Insights</p>
+</header>
+
+<main>
+<section>
+<h2>About Me</h2>
+<p>Hello! I'm Jama Boru, a data analyst with a strong background in accounting. I hold a B.Com from the University of Nairobi, Google Data Analytics Certification, and CPA qualification. Currently, I work as an accountant at Kenyatta National Hospital (KNH), combining my finance expertise with data analytics to provide actionable insights.</p>
+</section>
+
+<section>
+<h2>Projects</h2>
+<ul>
+<li><strong>Financial Data Dashboard:</strong> Visualized KNH financial trends for better reporting. <a href="#">View Project</a></li>
+<li><strong>Customer Segmentation Analysis:</strong> Applied clustering to optimize internal resource allocation. <a href="#">View Project</a></li>
+<li><strong>Website Analytics for KNH:</strong> Analyzed traffic and engagement data to improve hospital information systems. <a href="#">View Project</a></li>
+</ul>
+</section>
+
+<section>
+<h2>Contact</h2>
+<p>Email: <a href="mailto:jama.boru@gmail.com">jama.boru@gmail.com</a></p>
+<p>LinkedIn: <a href="https://linkedin.com/in/jamaboru">linkedin.com/in/jamaboru</a></p>
+<p>GitHub: <a href="https://github.com/jamaboru">github.com/jamaboru</a></p>
+</section>
+</main>
+
+<footer>
+<p>&copy; 2025 Jama Boru. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
